@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="$PROJECT_DIR$/sage/vendor/bin/phpcbf" tool_path="$PROJECT_DIR$/sage/vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/sage/vendor/carbonphp/carbon-doctrine-types" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/sage/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/sage/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/sage/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/sage/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/routing" />
+      <path value="$PROJECT_DIR$/sage/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/log" />
+      <path value="$PROJECT_DIR$/sage/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/config" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/cache" />
+      <path value="$PROJECT_DIR$/sage/vendor/oscarotero/env" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/sage/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/sage/vendor/illuminate/encryption" />
+      <path value="$PROJECT_DIR$/sage/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/bedrock-autoloader" />
+      <path value="$PROJECT_DIR$/sage/vendor/laravel/prompts" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/wordpress-core-installer" />
+      <path value="$PROJECT_DIR$/sage/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/acorn" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/support" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/wp-password-bcrypt" />
+      <path value="$PROJECT_DIR$/sage/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/sage/vendor/roots/wp-config" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/sage/vendor/composer" />
+      <path value="$PROJECT_DIR$/sage/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/sage/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/sage/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/sage/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/sage/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/sage/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/sage/vendor/league/flysystem-local" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/sage/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/sage/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/sage/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/sage/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/sage/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/sage/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/sage/vendor/guzzlehttp/uri-template" />
+      <path value="$PROJECT_DIR$/sage/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/sage/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/oscarotero/env" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/composer" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/roots/wordpress-core-installer" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/roots/bedrock-autoloader" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/roots/wp-config" />
+      <path value="$PROJECT_DIR$/bedrock/vendor/roots/wp-password-bcrypt" />
+      <path value="$PROJECT_DIR$/sage/.tugmd/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/sage/.tugmd/vendor/composer" />
+      <path value="$PROJECT_DIR$/sage/web/app/themes/tugmd/vendor/composer" />
+      <path value="$PROJECT_DIR$/sage/web/app/themes/tugmd/vendor/laravel/pint" />
+      <path value="$PROJECT_DIR$/sage/vendor/log1x/acf-composer" />
+      <path value="$PROJECT_DIR$/sage/vendor/stoutlogic/acf-builder" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/sage/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
